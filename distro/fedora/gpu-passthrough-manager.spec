@@ -14,7 +14,9 @@ Source0:  https://github.com/SteelEyeballSac1/%{name}/archive/%{version}.tar.gz#
 
 %changelog
 * Thu Jul 13 2017 - 1.2.1-1
-- created specfile
+- Created specfile
+- First successful build
+- Started work on github integration
 
 %prep
 %setup
