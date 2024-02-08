@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: upstream
+          ref: master
           fetch-depth: 0
       - name: Sync Upstream
         uses: zhangnew/sync-upstream@v1
