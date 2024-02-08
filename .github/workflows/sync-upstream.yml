@@ -21,4 +21,4 @@ jobs:
         with:
           upstream: uwzis/GPU-Passthrough-Manager
           upstream-branch: master
-          branch: upstream
+          branch: master
